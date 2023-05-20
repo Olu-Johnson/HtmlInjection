@@ -1,4 +1,4 @@
-# HtmlInjection
+# Html Injection
 HTML Injection is a type of security vulnerability that occurs when untrusted data is inserted into an HTML web page without proper sanitization or validation. This can lead to the execution of malicious code or unintended modifications to the web page's content and structure.
 
 Causes of HTML Injection:
